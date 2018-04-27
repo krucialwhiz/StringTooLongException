@@ -1,0 +1,6 @@
+1. Write a program that creates an exception class called StringTooLongException,
+    designed to be caught and handled when a string is discovered that has too many
+    characters in it. In the main driver of the program, read strings from the user until the user
+    enters "DONE". If a string is entered that has too many characters (say 20), catch and
+    handle the exception by printing an appropriate message, and then continue processing
+    more strings. Allow the thrown exception to terminate the program.
